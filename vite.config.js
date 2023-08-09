@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
     build: {
         manifest: true,
-        outDir: 'public/build',
+        outDir: 'public/dist',
         rollupOptions: {
             input: 'resources/js/app.jsx',
         },
