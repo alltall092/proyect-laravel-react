@@ -8,7 +8,7 @@ const About=()=>{
 
 return(<>
 <Header/>
-<div className="container">
+<div className="container newspaper ">
     <div className="row">
     <div className="col-md-4 columna">
     <h3>DESCRIPCION DE LA EMPRESA</h3>
