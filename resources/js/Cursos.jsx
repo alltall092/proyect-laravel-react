@@ -43,10 +43,10 @@ return(<>
                  en especialista <span className="success1">IBM</span>
                  con mejores las abilidades del
                  <p className="success">Sector de Contruccion</p></h2>
-                <p className="parrafo animate__animated animate__animate__fadeInRight">aprende tecnologia y metodologias</p>
+                <p className="parrafo animate__animated animate__fadeInRight">aprende tecnologia y metodologias</p>
                 <p className="parrafo animate__animated animate__fadeInRight"> revit,navisworks,BIM,VDC,y mucho mucho mas</p>
 
-<button type="button" className="btn  btn-lg btn-success">Inicia Ahora</button>
+<button type="button" className="btn  btn-lg btn-success">< a href="listaCursos">Inicia Ahora</a></button>
 </div>
 </div>
 <div className="col-md-6">
